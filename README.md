@@ -13,6 +13,12 @@ Daily java programs with proper data structures with generic nodes and use
 - Recursions
 - Stacks
 - Loops
+- Tries
+- Trees
+- BST
+- AVL Trees
+- Heaps
+- Dynamic Programming
 
 With some other java programs having implementations.
 
